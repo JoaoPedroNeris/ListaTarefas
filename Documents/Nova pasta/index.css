@@ -1,0 +1,34 @@
+body {
+    background-color: #222831;
+
+    input {
+        color: #fd7014;
+        background-color: #393E46;
+        padding: 15px;
+        border-radius: 12px;
+        border: 2px solid transparent;
+        box-shadow: 0px 1px 1px 1px #fd7014;
+        transition: border .3s ease-in-out;}
+
+
+
+        button {
+            background-color: #393E46;
+            color: #fd7014;
+            border: 1px #fd7014;
+        }
+    }
+
+    .lista {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 40px;
+        text-align: center;
+        color: #fd7014;
+        display: block;
+        list-style-type: none;
+        background-color: #393E46;
+        width: 650px;
+        line-height: 1;
+        border-radius: 15px;
+        box-shadow: 1px 1px 2px #fd7014;
+    }
